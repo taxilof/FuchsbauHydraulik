@@ -224,7 +224,7 @@
             <mxPoint x="640" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qmnPW_A-aqTCruFJxmAy-14" value="" style="group;connectable=1;points=[[0,0.23,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0]];labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingTop=16;html=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="qmnPW_A-aqTCruFJxmAy-14" value="" style="group;connectable=1;points=[[0,0.23,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0]];labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingTop=16;html=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="812" y="958" width="100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="qmnPW_A-aqTCruFJxmAy-3" value="300-500l Puffer WW" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="qmnPW_A-aqTCruFJxmAy-14">
