@@ -258,7 +258,7 @@
         <mxCell id="qmnPW_A-aqTCruFJxmAy-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5;endAngle=0;strokeWidth=1;rotation=-180;" parent="qmnPW_A-aqTCruFJxmAy-11" vertex="1">
           <mxGeometry width="70" height="15.714285714285717" as="geometry" />
         </mxCell>
-        <mxCell id="svouk8jaI7RmBj_YZdOi-2" value="Heizstab" style="shape=mxgraph.pid.heat_exchangers.u-tube_heat_exchanger;html=1;pointerEvents=1;align=right;verticalLabelPosition=middle;verticalAlign=middle;dashed=0;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=-180;labelPosition=left;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="qmnPW_A-aqTCruFJxmAy-11">
+        <mxCell id="svouk8jaI7RmBj_YZdOi-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;3kW&amp;nbsp;&lt;div&gt;Heizstab&lt;/div&gt;" style="shape=mxgraph.pid.heat_exchangers.u-tube_heat_exchanger;html=1;pointerEvents=1;align=right;verticalLabelPosition=middle;verticalAlign=middle;dashed=0;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=-180;labelPosition=left;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="qmnPW_A-aqTCruFJxmAy-11">
           <mxGeometry x="53" y="45.5" width="41" height="19" as="geometry" />
         </mxCell>
         <mxCell id="qmnPW_A-aqTCruFJxmAy-12" value="" style="endArrow=none;html=1;rounded=0;" parent="svouk8jaI7RmBj_YZdOi-5" edge="1">
